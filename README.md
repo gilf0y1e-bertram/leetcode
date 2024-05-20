@@ -1,2 +1,1 @@
-# leetcode
-LeetCode Problems' Solutions.
+Follow this: https://programmercarl.com.
